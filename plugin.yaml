@@ -1,0 +1,6 @@
+plugin:
+    name: 'crm.userbackend::lang.plugin.name'
+    description: 'crm.userbackend::lang.plugin.description'
+    author: CRM
+    icon: oc-icon-user
+    homepage: ''
